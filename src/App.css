@@ -1,0 +1,19 @@
+/* App.css */
+.app.light {
+  background-color: #ffffff; 
+}
+
+.app.dark {
+  background-color: #6e6e6e; 
+}
+.app.mauve{
+  background-color: #ff00cc; 
+}
+.app.blue {
+  background-color: #5100ff; 
+}
+
+.app{
+height: 100vh;
+margin: auto;
+}
